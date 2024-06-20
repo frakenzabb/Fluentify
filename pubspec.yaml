@@ -1,0 +1,54 @@
+name: coba_uas
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.4.1"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  url_launcher: any
+  shared_preferences: ^2.0.9
+  dio: any
+  enum_to_string: any
+  equatable: any
+  flutter_hooks: any
+  hooks_riverpod: any
+  html_character_entities: any
+  meta: ^1.2.4
+  provider: ^6.0.0
+  http: ^0.13.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
+    - assets/backgrounduas.jpg
+    - assets/backgrounduas2.jpg
+    - assets/rakha.jpeg
+    - assets/dirga2.jpeg
+    - assets/card1.jpg
+    - assets/card2.jpg
+    - assets/card3.jpg
+    - assets/banner/banner1.jpg
+    - assets/banner/banner2.jpg
+    - assets/banner/banner3.jpg
+    - assets/banner/banner4.jpg
+    - assets/begginer/activities.jpg
+    - assets/begginer/counting.jpg
+    - assets/begginer/greetings.jpg
+    - assets/inter/describing.jpg
+    - assets/inter/grammar.jpg
+    - assets/inter/vocab.jpg
+    - assets/advance/advance1.jpg
+    - assets/advance/advance2.jpg
+    - assets/advance/advance3.jpg

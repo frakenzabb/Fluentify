@@ -1,0 +1,6 @@
+analyzer:
+  errors:
+    dead_code_on_catch_subtype: ignore
+    depend_on_referenced_packages: ignore
+    prefer_const_constructors: ignore ignore
+include: package:flutter_lints/flutter.yaml
